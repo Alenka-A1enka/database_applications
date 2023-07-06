@@ -1,0 +1,24 @@
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\Рекламное агентство.exe.config
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\Рекламное агентство.exe
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\Рекламное агентство.pdb
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.Form1.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.Properties.Resources.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.exe
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.pdb
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.ClientMainPage.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.Register.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.AddRequest.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.AgentMainPage.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.AllNewRequests.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.AllRequests.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.Statistics.resources
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.csproj.CopyComplete
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное агентство.csproj.ResolveComReference.cache
+C:\Users\ACER\source\repos\Рекламное агентство\Рекламное агентство\obj\Debug\Рекламное_агентство.Statistics2.resources
